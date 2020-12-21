@@ -17,6 +17,8 @@ Scrollt runter um andere Kurse zu sehen
 
 Installation:
 Holt euch Python und installiert euch das PyAutoGUI Paket dazu
+
 Loggt euch in it'slearning ein
+
 Startet das Skript
 
