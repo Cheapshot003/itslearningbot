@@ -13,3 +13,10 @@ Das Skript ist noch in der Proof of Concept Phase und bringt noch nicht allzu vi
 Funktionen:
 Nach Login: Besuchen von Kursen, verweilt jeweils 5 Sekunden auf der Seite (Testzwecke)
 Scrollt runter um andere Kurse zu sehen
+
+
+Installation:
+Holt euch Python und installiert euch das PyAutoGUI Paket dazu
+Loggt euch in it'slearning ein
+Startet das Skript
+
