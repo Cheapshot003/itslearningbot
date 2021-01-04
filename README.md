@@ -2,7 +2,7 @@
 
 Hintergrund:
 Lehrkräfte können durch das 360° Feature gucken, wie lange ihr euch in den verschiedenen Kursen aufhält und ob ihr alle Ressourcen angeklickt habt.
-Das ist natürlich doof und auch datenschutztechnisch fragwürdig.
+Das ist natürlich doof und auch datenschutzrechtlich fragwürdig.
 
 Hier kommt die Retourekutsche...
 
@@ -21,4 +21,9 @@ Holt euch Python und installiert euch das PyAutoGUI Paket dazu
 Loggt euch in it'slearning ein
 
 Startet das Skript
+
+
+Änderungslog:
+0.2: Eingabe der Bildschirmauflösung und der Zeit, welche man im Kurs verbringt
+
 
