@@ -1,4 +1,4 @@
-# Bot für it'slearning
+# Bot für itslearning
 
 Hintergrund:
 Lehrkräfte können durch das 360° Feature gucken, wie lange ihr euch in den verschiedenen Kursen aufhält und ob ihr alle Ressourcen angeklickt habt.
@@ -18,7 +18,7 @@ Scrollt runter um andere Kurse zu sehen
 Installation:
 Holt euch Python und installiert euch das PyAutoGUI Paket dazu
 
-Loggt euch in it'slearning ein
+Loggt euch in itslearning ein
 
 Startet das Skript
 
