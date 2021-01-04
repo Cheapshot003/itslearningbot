@@ -1,4 +1,4 @@
-#Alpha Version 0.1 | Proof of Concept
+#Alpha Version 0.2 | Proof of Concept
 
 import pyautogui
 from time import sleep
