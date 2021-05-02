@@ -1,4 +1,4 @@
-# Hilfreiches und ordnungsgemäß programmiertes Python Skript (HOPPS)
+# *H*ilfreiches und *o*rdnungsgemäß *p*rogrammiertes *P*ython *S*kript (HOPPS)
 ## Bot für "itslearning"
 
 Hintergrund:
