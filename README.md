@@ -14,7 +14,9 @@ Das Skript ist noch jung und es hat vielleicht hier und da ein paar Bugs (auch w
 
 Installation:
 
-.exe Datei herunterladen und ausführen...fertig
+Downloadlink: https://cloud.oletietz.de/s/TJsd5Ls6ZfqHyH4
+
+HOPPS.exe Datei herunterladen und ausführen...fertig
 
 Falls ihr meiner Wenigkeit nicht vertraut könnt ihr das Skript auch direkt ausführen:
 
