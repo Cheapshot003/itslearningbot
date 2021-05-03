@@ -13,9 +13,19 @@ Das Skript ist noch jung und es hat vielleicht hier und da ein paar Bugs (auch w
 
 
 Installation:
-Holt euch Python und installiert euch das PyAutoGUI Paket dazu
+
+.exe Datei herunterladen und ausführen...fertig
+
+Falls ihr meiner Wenigkeit nicht vertraut könnt ihr das Skript auch direkt ausführen:
+
+Holt euch Python und installiert euch das PyAutoGUI Paket und PyQt5 dazu:
 
 `pip install pyautogui`
+
+`pip install PyQt5`
+
+
+Anleitung:
 
 Loggt euch in itslearning ein
 
@@ -24,6 +34,7 @@ Stellt alles nach euren wünschen ein und drückt auf den Startbutton (**Wichtig
 
 Änderungslog:
 0.2: Eingabe der Bildschirmauflösung und der Zeit, welche man im Kurs verbringt
+
 1.0: Grafische Benutzeroberfläche (PyQt), weitere Einstellmöglichkeiten
 
 **Dieses "Programm" steht unter der MIT Lizenz und ihr könnt damit machen was ihr wollt solange ihr meinen Namen gemäß Lizenz erwähnt**
