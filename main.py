@@ -155,8 +155,8 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "Es ist lernen Bot"))
-        self.titleLabel.setText(_translate("MainWindow", "\"Es ist lernen\" Bot für gute Mitarbeitsnoten"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "HOPPS Bot"))
+        self.titleLabel.setText(_translate("MainWindow", "itslearning Bot für gute Mitarbeitsnoten"))
         self.titleLabel_2.setText(_translate("MainWindow", "1: Auflösung ermitteln"))
         self.dimensionButton.setText(_translate("MainWindow", "Bildschirmauflösung ermitteln"))
         self.titleLabel_3.setText(_translate("MainWindow", "Alternativ: Auflösung manuell bearbeiten"))
@@ -192,7 +192,15 @@ class Ui_MainWindow(object):
         self.stop = False
         screenResX = int(self.xEdit.text())
         screenResY = int(self.yEdit.text())
-        timeout = int(self.anzahlEdit.text())
+        if(self.sekundenButton.isChecked()):
+            timeout = int(self.anzahlEdit.text())
+            print(timeout)
+        elif(self.minutenButton.isChecked()):
+            timeout = int(self.anzahlEdit.text())*60
+            print(timeout)
+        elif(self.stundenButton.isChecked()):
+            timeout = int(self.anzahlEdit.text())*60*60
+            print(timeout)
         
         def getX(x):
             x1 = 320 + (x*310) - 310
